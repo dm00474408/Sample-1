@@ -9,6 +9,7 @@ public class Sample1_class {
 		// TODO Auto-generated method stub
 		System.out.println("Hello GIT!");
 		System.out.println("Hello GIT1!");
+		System.out.println("Hello GIT2!");
 	}
 
 }
